@@ -1,0 +1,10 @@
+2020-05-07 15:48:23,306: DEBUG: This is Debug Message
+2020-05-07 15:48:23,307: INFO: This is info Message
+2020-05-07 15:48:23,307: WARNING: This is warning Message
+2020-05-07 15:48:23,307: ERROR: This is error message
+2020-05-07 15:48:23,307: CRITICAL: This is critial message
+05/07/20 03:05:1588859563 PM: DEBUG: This is Debug Message
+05/07/20 03:05:1588859563 PM: INFO: This is info Message
+05/07/20 03:05:1588859563 PM: WARNING: This is warning Message
+05/07/20 03:05:1588859563 PM: ERROR: This is error message
+05/07/20 03:05:1588859563 PM: CRITICAL: This is critial message
