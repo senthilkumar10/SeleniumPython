@@ -1,9 +1,6 @@
 from selenium import webdriver
 from pathlib import Path
-import sys
-sys.path.append("/home/senthil/Documents/MyProjects/Selenium_python/Excel_Operations")
-from Excel_Operations.XLUtil import getColumnCount,getRowCount,readData,writeData
-#import Excel_Operations.XLUtil
+from XLUtil import getColumnCount,getRowCount,readData,writeData
 
 def initialize():
     driver = webdriver.Chrome(Path.joinpath(Path.cwd().parent, "drivers", "chromedriver"))
